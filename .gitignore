@@ -4,6 +4,7 @@ config.py
 #Adding additional files
 WeatherPy_module_runthrough.ipynb
 practice.ipynb
+google_maps_module.ipynb
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
