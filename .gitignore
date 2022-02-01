@@ -6,7 +6,11 @@ config_file.py
 WeatherPy_module_runthrough.ipynb
 practice.ipynb
 google_maps_module.ipynb
-weather_data
+cities.csv
+Fig1.png
+Fig2.png
+Fig3.png
+Fig4.png
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
